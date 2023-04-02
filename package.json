@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/franzreitmayer/NodeExpressTS/issues"
   },
-  "homepage": "https://github.com/franzreitmayer/NodeExpressTS#readme"
+  "homepage": "https://github.com/franzreitmayer/NodeExpressTS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
