@@ -6,5 +6,7 @@ app.get('/', (request: Request, response: Response) => {
 });
 
 app.listen(8080, () => {
+    // try to shadow security breach in different commits
+    let password = 'testpwd';
     console.log('Server is listening on port 8080');
 });
